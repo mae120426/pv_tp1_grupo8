@@ -1,10 +1,20 @@
-﻿# pv_tp1_grupo8
+# pv_tp1_grupo8
 
-Integrantes - Grupo 8	| Usuario en GitHub
-------------------------|------------------- 
-Espindola, Miguel	    | mae120426
-Loza, Soledad         | 
-Llanos, Camila Eunice | 
-Mamani, Franco Nahuel	| FrancoSajama
-Soto, Silvio Nicolas	| silvionicolassoto-stack
-Zapana, Luisa Pamela	| luisapzapana
+# Integrantes:
+1 - Espindola, Miguel	mae120426
+2 - Llanos, Eunice	    eunicellano41-stack
+3 - Mamani, Franco 	    FrancoSajama
+4 - Soto, Nicolas	    silvionicolassoto-stack
+5 - Zapana, Pamela	    luisapzapana
+
+# Descripcion del HTML
+texto
+
+# 123
+texto
+
+# 123
+texto
+
+# 123
+texto
