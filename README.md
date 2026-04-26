@@ -8,13 +8,4 @@
 5 - Zapana, Pamela	    luisapzapana
 
 # Descripcion del HTML
-texto
-
-# 123
-texto
-
-# 123
-texto
-
-# 123
-texto
+Complicaciones para subir archivos a GitHub
